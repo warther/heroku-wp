@@ -77,17 +77,17 @@
       }
     }
   },
-  #"addons": [
-    {
-      "plan": "heroku-redis:hobby-dev"
-    },
-    {
-      "plan": "jawsdb-maria:kitefin",
-      "as": "WP_DB"
-    },
-    {
-      "plan": "newrelic:wayne"
-    }
-  ],
+#  "addons": [
+#    {
+#      "plan": "heroku-redis:hobby-dev"
+#    },
+#    {
+#      "plan": "jawsdb-maria:kitefin",
+#      "as": "WP_DB"
+#    },
+#    {
+#      "plan": "newrelic:wayne"
+#    }
+#  ],
   "stack": "heroku-16"
 }
