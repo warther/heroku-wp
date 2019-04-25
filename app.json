@@ -77,7 +77,7 @@
       }
     }
   },
-  "addons": [
+  #"addons": [
     {
       "plan": "heroku-redis:hobby-dev"
     },
